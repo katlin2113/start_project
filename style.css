@@ -98,7 +98,7 @@ p {
   font-size: 24px;
 }
 
-.zaika {
+.line-container {
   display: flex;
   align-items: center;
 }
